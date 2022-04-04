@@ -13,10 +13,10 @@ Format the .tf files:
 Validate the .tf files:
 `terraform validate`
 
-Run Terraform provision:
+Run Terraform provision (adding --auto-approve will skip the yes/no prompt):
 `terraform apply`
 
-Pull down provistion:
+Pull down provistion (adding --auto-approve will skip the yes/no prompt):
 `terraform destroy`
 
 Check current status:
