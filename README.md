@@ -39,3 +39,7 @@ Show the current resources being managed:
 ## GCP
 
 /GCP
+
+## vSphere
+
+/vSphere
