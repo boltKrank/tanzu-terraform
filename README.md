@@ -30,6 +30,12 @@ Show the current resources being managed:
 
 ## Azure
 
-## AWS (TODO)
+/Azure
 
-## GCP (TODO)
+## AWS
+
+/AWS
+
+## GCP
+
+/GCP
