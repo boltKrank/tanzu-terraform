@@ -24,5 +24,5 @@ resource "google_project_service" "project_api" {
   project                    = var.project_id
   service                    = var.project_apis[count.index]
   disable_dependent_services = true
-  depends_on                 = [google_project.demo_environment]
+  depends_on                 = [google_project.demo_environment]  
 }
