@@ -10,7 +10,7 @@ provider "vsphere" {
 # Will use var.vsphere_datacenter
 data "vsphere_datacenter" "dc" {
    name = var.vsphere_datacenter_name
-}
+} 
 
 data "vsphere_datastore" "datastore" {
    name          = var.vsphere_datastore_name
