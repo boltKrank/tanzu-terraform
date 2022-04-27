@@ -1,1 +1,1 @@
-# TODO https://registry.terraform.io/providers/hashicorp/vsphere/latest/docs/resources/compute_cluster  frank
+# TODO https://registry.terraform.io/providers/hashicorp/vsphere/latest/docs/resources/compute_cluster 
