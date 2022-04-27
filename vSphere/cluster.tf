@@ -1,1 +1,1 @@
-# TODO https://registry.terraform.io/providers/hashicorp/vsphere/latest/docs/resources/compute_cluster too many franks
+# TODO https://registry.terraform.io/providers/hashicorp/vsphere/latest/docs/resources/compute_cluster one more frank ?
