@@ -28,18 +28,18 @@ List commands for chaning state:
 Show the current resources being managed:
 `terraform state list`
 
-## Azure
+## Azure (TAP and TKG)
 
 /Azure
 
-## AWS
+## AWS (TAP and TKG)
 
 /AWS
 
-## GCP
+## GCP (TAP and TKG)
 
 /GCP
 
-## vSphere
+## vSphere (TAP and TKG)
 
 /vSphere
