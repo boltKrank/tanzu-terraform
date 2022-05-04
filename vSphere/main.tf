@@ -28,7 +28,7 @@ data "vsphere_network" "network" {
 }
 
 data "vsphere_virtual_machine" "template" {
-  name = var.vsphere_vm_linux_bastion_name
+  name = var.vsphere_vm_linux_bastion_template_name
   datacenter_id = data.vsphere_datacenter.dc.id
 }
 resource "vsphere_virtual_machine" "vm" {

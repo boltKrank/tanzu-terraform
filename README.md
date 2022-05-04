@@ -2,6 +2,10 @@
 
 Terraform manifests to generate Tanzu environments
 
+## TODO
+
+Unit test
+
 ## Common commands
 
 Initialise and download any dependancies:

@@ -34,14 +34,10 @@ variable "vsphere_vm_guest_id" {
   default = "vsphere_vm_guest_id"
 }
 
-variable "linux_" {
-  default = "vsphere_vm_guest_id"
-}
-
 variable "vsphere_vm_linux_bastion_name" {
   default = "vsphere_vm_linux_bastion_name"
 }
 
-variable "vsphere_vm_linux_bastion_template name" {
-  default = "vsphere_vm_linux_bastion_name"
+variable "vsphere_vm_linux_bastion_template_name" {
+  default = "vsphere_vm_linux_bastion_template_name"
 }
