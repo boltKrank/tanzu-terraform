@@ -1,0 +1,15 @@
+#Note: needs to be on VPN
+
+vsphere_user     = "xxxxx"
+vsphere_password = "xxxxx"
+vsphere_server   = "xxxxx"
+vsphere_datacenter_name = "xxxxx"
+vsphere_datastore_name = "xxxxx"
+vsphere_resource_pool_name = "xxxxx"
+vsphere_network_name = "xxxxx"
+vsphere_virtual_machine_name = "sianderson-vm-test"
+
+
+# Linux bastion:
+vsphere_vm_linux_bastion_name = "simon-linux-bastion"
+vsphere_vm_linux_bastion_template ="Rocky Linux 8 VM Template"
